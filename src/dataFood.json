@@ -1,0 +1,98 @@
+[
+    {
+        "categoryName": "Biryani",
+        "name": "Chicken Biryani",
+        "image": "chicken-biryani.jpg",
+        "option": {
+            "half": 7.99,
+            "full": 10.99
+        },
+        "description": "A flavorful dish made with tender chicken pieces cooked with aromatic spices and basmati rice."
+    },
+    {
+        "categoryName": "Biryani",
+        "name": "Vegetable Biryani",
+        "image": "vegetable-biryani.jpg",
+        "option": {
+            "half": 6.99,
+            "full": 9.99
+        },
+        "description": "A vegetarian delight featuring a mix of fresh vegetables cooked with fragrant spices and long-grain basmati rice."
+    },
+    {
+        "categoryName": "Biryani",
+        "name": "Mutton Biryani",
+        "image": "mutton-biryani.jpg",
+        "option": {
+            "half": 8.99,
+            "full": 12.99
+        },
+        "description": "A classic dish made with tender mutton pieces marinated in spices and layered with aromatic basmati rice."
+    },
+    {
+        "categoryName": "Pizza",
+        "name": "Margherita Pizza",
+        "image": "margherita-pizza.jpg",
+        "option": {
+            "regular": 250,
+            "medium": 300,
+            "large": 400
+        },
+        "description": "A traditional Italian pizza topped with tomato sauce, mozzarella cheese, and fresh basil leaves."
+    },
+    {
+        "categoryName": "Pizza",
+        "name": "Pepperoni Pizza",
+        "image": "pepperoni-pizza.jpg",
+        "option": {
+            "regular": 250,
+            "medium": 300,
+            "large": 400
+        },
+        "description": "A classic favorite featuring spicy pepperoni slices, tomato sauce, and melted cheese on a crispy crust."
+    },
+    {
+        "categoryName": "Pizza",
+        "name": "Vegetarian Pizza",
+        "image": "vegetarian-pizza.jpg",
+        "option": {
+            "regular": 250,
+            "medium": 300,
+            "large": 400
+        },
+        "description": "A delicious vegetarian option with a medley of fresh vegetables, tomato sauce, and cheese on a thin crust."
+    },
+    {
+        "categoryName": "Burger",
+        "name": "Classic Burger",
+        "image": "classic-burger.jpg",
+        "option": {
+            "regular": 250,
+            "medium": 300,
+            "large": 400
+        },
+        "description": "An all-time favorite featuring a juicy beef patty, lettuce, tomato, onion, pickles, and classic condiments on a sesame seed bun."
+    },
+    {
+        "categoryName": "Burger",
+        "name": "Cheeseburger",
+        "image": "cheeseburger.jpg",
+        "option": {
+            "regular": 250,
+            "medium": 300,
+            "large": 400
+        },
+        "description": "A cheese lover's delight with a succulent beef patty topped with melted cheese, lettuce, tomato, onion, and pickles on a toasted bun."
+    },
+    {
+        "categoryName": "Burger",
+        "name": "Chicken Burger",
+        "image": "chicken-burger.jpg",
+        "option": {
+            "regular": 250,
+            "medium": 300,
+            "large": 400
+        },
+        "description": "A flavorful alternative featuring a grilled chicken breast, lettuce, tomato, onion, and special sauce on a whole grain bun."
+    }
+]
